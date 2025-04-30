@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>White Metal Bearing Refurbishment</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="main-header">
+        <img src="/assets/colherneOmanHeader.png" alt="Coleherne and Hydro partnership header" class="header-bg">
+    </header>
+
+    <main>
+        <h1>Timeline Start to Finish White Metal Bearing Refurbishment:</h1>
+        
+        <div class="timeline-container">
+            <div class="timeline" id="timeline">
+                <!-- Timeline steps will be dynamically inserted here -->
+            </div>
+        </div>
+    </main>
+
+    <div class="modal" id="videoModal" aria-hidden="true">
+        <div class="modal-overlay" tabindex="-1" data-close-modal></div>
+        <div class="modal-content" role="dialog" aria-labelledby="modalTitle">
+            <button class="close-modal" aria-label="Close video" data-close-modal>✕</button>
+            <h2 id="modalTitle"></h2>
+            <div class="video-container">
+                <video id="modalVideo" controls></video>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js" defer></script>
+</body>
+</html>
