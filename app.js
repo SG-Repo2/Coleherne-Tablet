@@ -1,17 +1,17 @@
 // Timeline Data
 const stepsData = [
-    {"title":"Initial Inspection", "img":"/assets/steps/initialInspection.png", "video":"/videos/initialInspection.mp4"},
-    {"title":"Remove Worn Lining", "img":"/assets/steps/rmvWornLining.png", "video":"/videos/rmvWornLining.mp4"},
-    {"title":"Surface Preparation", "img":"/assets/steps/surfacePerparation.png", "video":"/videos/surfacePreparation.mp4"},
-    {"title":"Tinning Process", "img":"/assets/steps/tinningProcess.png", "video":"/videos/tinningProcess.mp4"},
-    {"title":"Tinning Complete", "img":"/assets/steps/tinningComplete.png", "video":"/videos/tinningComplete.mp4"},
-    {"title":"Proof Machining", "img":"/assets/steps/proofMachining.png", "video":"/videos/proofMachining.mp4"},
-    {"title":"Centrifugal Casting", "img":"/assets/steps/centrifugalCasting.png", "video":"/videos/centrifugalCasting.mp4"},
-    {"title":"Ultrasonic NDT", "img":"/assets/steps/ultrasonicNDT.png", "video":"/videos/ultrasonicNDT.mp4"},
-    {"title":"Final Machining", "img":"/assets/steps/finalMachining.png", "video":"/videos/finalMachining.mp4"},
-    {"title":"Dye-Penetrant NDT", "img":"/assets/steps/dyePenetrantNDT.png", "video":"/videos/dyePenetrantNDT.mp4"},
-    {"title":"Dimensional Inspection", "img":"/assets/steps/dimensionalInspection.png", "video":"/videos/dimensionalInspection.mp4"},
-    {"title":"Ready for Packing", "img":"/assets/steps/ready4Packing.png", "video":"/videos/readyForPacking.mp4"}
+    {"title":"Initial Inspection", "img":"./assets/steps/initialInspection.png", "video":"./videos/initialInspection.mp4"},
+    {"title":"Remove Worn Lining", "img":"./assets/steps/rmvWornLining.png", "video":"./videos/rmvWornLining.mp4"},
+    {"title":"Surface Preparation", "img":"./assets/steps/surfacePerparation.png", "video":"./videos/surfacePreparation.mp4"},
+    {"title":"Tinning Process", "img":"./assets/steps/tinningProcess.png", "video":"./videos/tinningProcess.mp4"},
+    {"title":"Tinning Complete", "img":"./assets/steps/tinningComplete.png", "video":"./videos/tinningComplete.mp4"},
+    {"title":"Proof Machining", "img":"./assets/steps/proofMachining.png", "video":"./videos/proofMachining.mp4"},
+    {"title":"Centrifugal Casting", "img":"./assets/steps/centrifugalCasting.png", "video":"./videos/centrifugalCasting.mp4"},
+    {"title":"Ultrasonic NDT", "img":"./assets/steps/ultrasonicNDT.png", "video":"./videos/ultrasonicNDT.mp4"},
+    {"title":"Final Machining", "img":"./assets/steps/finalMachining.png", "video":"./videos/finalMachining.mp4"},
+    {"title":"Dye-Penetrant NDT", "img":"./assets/steps/dyePenetrantNDT.png", "video":"./videos/dyePenetrantNDT.mp4"},
+    {"title":"Dimensional Inspection", "img":"./assets/steps/dimensionalInspection.png", "video":"./videos/dimensionalInspection.mp4"},
+    {"title":"Ready for Packing", "img":"./assets/steps/ready4Packing.png", "video":"./videos/readyForPacking.mp4"}
   ];
   
   // DOM Elements
